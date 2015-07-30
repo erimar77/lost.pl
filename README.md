@@ -1,6 +1,3 @@
-
-#README
-
 Author: Phil Eckert
 Date: 03/14/2014
 
